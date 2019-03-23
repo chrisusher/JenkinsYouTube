@@ -3,3 +3,19 @@
 ################################################################################
 
 /OctoFX/OctoFX.Core/bin/Debug
+/OctoFX/OctoFX.Core/obj/Debug
+/OctoFX/OctoFX.Database/bin/Debug
+/OctoFX/OctoFX.Database/obj/Debug
+/OctoFX/OctoFX.RateService/bin/Debug
+/OctoFX/OctoFX.RateService/obj/Debug
+/OctoFX/OctoFX.SampleDataGenerator/bin/Debug
+/OctoFX/OctoFX.SampleDataGenerator/obj/Debug
+/OctoFX/OctoFX.SmokeTests/bin/Debug
+/OctoFX/OctoFX.SmokeTests/obj/Debug
+/OctoFX/OctoFX.Tests/bin/Debug
+/OctoFX/OctoFX.Tests/obj/Debug
+/OctoFX/OctoFX.TradingWebsite/bin
+/OctoFX/OctoFX.TradingWebsite/obj/Debug
+/OctoFX/packages
+/OctoFX/TestResults/94fbf90e-55f1-45ba-b5a0-bbe12023e6c1
+/OctoFX/.vs
